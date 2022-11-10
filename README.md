@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi. My name is Alex Nelson, and I am a student of computer science. I am currently taking a computer science course at the open level (ICS2O) at St Mother Teresa Highschool located in Ottawa, Ontario. I am 15 years old, and I am relatively new to programming. However I have learned to create webpages using CSS and HTML, as well as basic algorithms with JavaScript and C#.
 
-- 🔭 I’m currently working on many assignments that I get from my teacher, including a small remake of the gmae "Space Invaders" in JavaScript.
+- 🔭 I’m currently working on many assignments that I get from my teacher, including a small remake of the game "Space Invaders" in JavaScript.
 
 - 🧠 I know enough about CSS and HTML to create a basic webpage. A webpage with a title, icon, words, images, etc. I also know a tiny bit about other languages like Lua and Python through my own research.
 
